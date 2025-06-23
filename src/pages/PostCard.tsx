@@ -1,5 +1,4 @@
-import type { Category } from '../types/Category';
-// import type { Post } from '../types/Post';
+import type { Post } from '../types/Post';
 import { date } from '../utils/date';
 
 interface PostCardProps {
